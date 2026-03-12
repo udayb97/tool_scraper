@@ -1,0 +1,231 @@
+Python
+SQL
+Scala
+Java
+Go
+Rust
+C++
+C#
+JavaScript
+TypeScript
+R
+Julia
+Bash
+Shell
+PowerShell
+Spark
+PySpark
+Spark SQL
+Spark Streaming
+Databricks
+Delta Lake
+Apache Iceberg
+Apache Hudi
+Apache Beam
+Apache Flink
+Apache Storm
+Apache Samza
+Airflow
+Apache Airflow
+Prefect
+Dagster
+Luigi
+Oozie
+Control-M
+IBM Workload Scheduler
+Cloud Composer
+Kafka
+Apache Kafka
+Kafka Streams
+Kafka Connect
+Redpanda
+Pulsar
+Apache Pulsar
+RabbitMQ
+ActiveMQ
+NATS
+Hadoop
+HDFS
+YARN
+MapReduce
+Hive
+Apache Hive
+HCatalog
+Pig
+Sqoop
+Flume
+Tez
+Presto
+Trino
+Apache Drill
+Dremio
+Impala
+AWS
+Amazon Web Services
+S3
+EC2
+EKS
+ECS
+Lambda
+Glue
+Kinesis
+Athena
+EMR
+DynamoDB
+CloudWatch
+Step Functions
+API Gateway
+SQS
+SNS
+Lake Formation
+Secrets Manager
+CloudTrail
+GCP
+Google Cloud
+BigQuery
+Cloud Storage
+Dataproc
+Dataflow
+Pub/Sub
+Cloud Functions
+Cloud Run
+Bigtable
+Spanner
+Vertex AI
+Looker
+Azure
+Azure Data Factory
+Azure Synapse
+Azure Blob Storage
+Azure Data Lake
+Azure Event Hub
+Azure Stream Analytics
+Azure Functions
+CosmosDB
+Azure SQL
+Snowflake
+Redshift
+Teradata
+Vertica
+Greenplum
+ClickHouse
+PostgreSQL
+MySQL
+MariaDB
+Oracle
+SQL Server
+SQLite
+CockroachDB
+MongoDB
+Cassandra
+ScyllaDB
+Redis
+Elasticsearch
+OpenSearch
+Neo4j
+JanusGraph
+ArangoDB
+HBase
+dbt
+dbt Cloud
+dbt Core
+Great Expectations
+Deequ
+Soda
+Monte Carlo
+Datafold
+Tableau
+Power BI
+Looker Studio
+Superset
+Metabase
+Qlik
+MicroStrategy
+Domo
+Docker
+Kubernetes
+OpenShift
+Helm
+Terraform
+Pulumi
+Ansible
+Chef
+Puppet
+Vagrant
+Git
+GitHub
+GitLab
+Bitbucket
+GitHub Actions
+GitLab CI
+Jenkins
+CircleCI
+Travis CI
+ArgoCD
+Prometheus
+Grafana
+Datadog
+New Relic
+Splunk
+Elastic Stack
+ELK
+OpenTelemetry
+REST API
+GraphQL
+gRPC
+OpenAPI
+Swagger
+FastAPI
+Flask
+Django
+Spring Boot
+Express.js
+Node.js
+NumPy
+Pandas
+Polars
+Dask
+Vaex
+Scikit-learn
+TensorFlow
+Keras
+PyTorch
+XGBoost
+LightGBM
+CatBoost
+MLflow
+Kubeflow
+Airbyte
+Fivetran
+Stitch
+Talend
+Informatica
+Matillion
+Apache Atlas
+Collibra
+Alation
+DataHub
+Amundsen
+Parquet
+ORC
+Avro
+JSON
+XML
+CSV
+Delta
+Iceberg
+Lakehouse
+Data Lake
+Data Warehouse
+Medallion Architecture
+Lambda Architecture
+Kappa Architecture
+SCD
+CDC
+Change Data Capture
+Event Driven Architecture
+Streaming
+Batch Processing
+Real-time Processing
+LLM
+Machine Learning
